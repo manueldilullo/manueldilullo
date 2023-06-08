@@ -1,3 +1,5 @@
+
+
 <h2 align="center"> <i>"Hello World"</i>
 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="40">
 
@@ -29,6 +31,8 @@ I am Manuel Di Lullo    </h2>
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 	&nbsp;
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.es/20180426/kbw/kisspng-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-5ae2595f709d26.2774016315247834554613.jpg" alt="java" width="40" height="40"/> </a> 	&nbsp;
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.alouit-multimedia.com/wp-content/uploads/2012/08/mysql-logo_2800x2800_pixels1.png" alt="java" width="40" height="40"/> </a> 	&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo.png" alt="python" width="50" height="40"/> </a> 	&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 	&nbsp;
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2017/09/Vue_js_logo.png" alt="javascript" width="40" height="40"/> </a> 	&nbsp;
@@ -55,6 +59,7 @@ I am Manuel Di Lullo    </h2>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 	&nbsp;
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" width="80" height="40"/> </a> 	&nbsp;
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fandroid-png-android-logo-png-1024.png&f=1&nofb=1&ipt=3819ba926029609b1c04d7c4c0a679b52992af26a329fccd08d501f1fa8f69f2&ipo=images" alt="android studio" width="40" height="40"/> </a> 	&nbsp;
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png" alt="arch linux" width="40" height="40"/> </a> 	&nbsp;
 
 
 <br/>
